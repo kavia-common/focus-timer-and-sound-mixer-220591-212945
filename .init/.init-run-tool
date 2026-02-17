@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/focus-timer-and-sound-mixer-220591-212945/pomodoro_focus_mixer_frontend"
+}
